@@ -14,9 +14,9 @@ return {
 			type = "TWOD",
 		},
 		polygon_offset = {
-			factor = 0,
+			factor = -1,
 			forceDepthWrite = false,
-			units = 0,
+			units = -1,
 		},
 		two_sided = {
 			flipNormal = true,
