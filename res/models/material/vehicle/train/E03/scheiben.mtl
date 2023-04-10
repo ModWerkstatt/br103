@@ -1,0 +1,28 @@
+function data()
+return {
+	params = {
+		fade_out_range = {
+			fadeOutEndDist = 20000,
+			fadeOutStartDist = 10000,
+		},
+		map_albedo_opacity = {
+			fileName = "models/vehicle/train/E03/scheiben_albedo_opacity.dds",
+			type = "TWOD",
+		},
+        map_metal_gloss_ao = {
+			fileName = "models/vehicle/train/E03/scheiben_metal_gloss_ao.dds",
+			type = "TWOD",
+		},
+		props = {
+			coeffs = {
+				1, 1, 0.25, 20,
+			},
+		},
+		two_sided = {
+			twoSided = false,
+		},
+	},
+	type = "PHYS_TRANSPARENT",
+    order = 2,
+}
+end
