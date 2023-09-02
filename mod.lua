@@ -1,7 +1,7 @@
 ﻿function data()
 return {
 	info = {
-		minorVersion = 2,
+		minorVersion = 3,
 		severityAdd = "NONE",
 		severityRemove = "WARNING",
 		name = _("mod_name"),
@@ -12,7 +12,7 @@ return {
 		        role = "CREATOR",
 		    },
 		},
-		tags = { "europe", "germany", "engine", "lokomotive", "highspeed", "schnellzug", },
+		tags = { "europe", "germany", "engine", "lokomotive", "highspeed", "schnellzug", "db", },
 		minGameVersion = 0,
 		dependencies = { },
 		url = { "" },
