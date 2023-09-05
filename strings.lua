@@ -2,7 +2,7 @@ function data()
 return {
 	en = {
 
-        ["mod_name"] = "DB E 03 / Class 103",
+        ["mod_name"] = "DB E 03 | Class 103",
 		["mod_desc"] = "The locomotives of the 103 series of the Deutsche Bundesbahn, later Deutsche Bahn, are heavy six-axle electric locomotives for fast passenger trains up to 200 km / h. Originally built for the transportation of high-quality TEE trains, it could be seen in the time before any heavy passenger train such as IC, IR or EC. Even in the 1990s, it was abused, which resulted in heavy wear. Thanks to its iconic shape, it has long been the star of the German railways and the showpiece of the Deutsche Bundesbahn. ",
 
 		["BR103_menu"] = "DB Class E 03 / Class 103",
@@ -45,7 +45,7 @@ return {
 	},
 	de = {
 
-		["mod_name"] = "DB E03 / BR 103",
+		["mod_name"] = "DB E 03 | BR 103",
 		["mod_desc"] = "Die Lokomotiven der Baureihe 103 der Deutschen Bundesbahn, später Deutsche Bahn, sind schwere sechsachsige Elektrolokomotiven für den schnellen Reisezugverkehr bis 200 km/h. Ursprünglich zur Beförderung von hochwertigen TEE-Zügen gebaut, war sie im Laufe der Zeit vor jedem schweren Personenzug wie IC, IR oder EC zu sehen. Sogar im Nahverkehr wurde sie in den 1990er Jahren bisweilen missbraucht, was aber starken Verschleiß zur Folge hatte. Durch ihre ikonische Form war sie lange Zeit der Star der deutschen Schiene und Paradepferd der Deutschen Bundesbahn.",
 
 		["BR103_menu"] = "BR E 03 / BR 103",
