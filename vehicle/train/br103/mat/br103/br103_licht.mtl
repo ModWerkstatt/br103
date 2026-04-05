@@ -1,0 +1,42 @@
+function data()
+return {
+		__version = "",
+		order = 0,
+		params = {
+			emissive_scale = {
+				fragmentProperties = {
+					{
+						emissiveScale = { 12, 12, 12, },
+						fromTime = 0,
+						toTime = 24,
+					},
+				},
+			},
+			light_receiver = {
+				fragmentProperties = {
+					{
+						isLegacyMaterial = false,
+						lightMask = 2,
+					},
+				},
+			},
+			map_emissive = {
+				fragmentSamplers = {
+					emissiveTex = {
+						fileName = "::/vehicle/train/emissive/tex/train_all_lights.dds",
+						type = "TWOD",
+					},
+				},
+			},
+			polygon_offset = {
+				fragmentProperties = {
+					{
+						factor = -1,
+						units = -1,
+					},
+				},
+			},
+		},
+		type = "EMISSIVE",
+	}
+end
